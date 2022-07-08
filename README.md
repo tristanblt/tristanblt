@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm CEO at **Sokius**
+Fullstack freelance developer
 
-- Personnal contact: tristanblt@gmail.com
-- Professional contact: tristan.bouillot@sokius.fr
+- Email contact: tristan@tblt.fr
+- Website: tblt.fr
