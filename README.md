@@ -1,6 +1,7 @@
-## Hello 👋
+## Hello, i'm Tristan Bouillot 👋
 
-Fullstack freelance developer
+I'm CTO @codidae & fullstack freelance developer
 
-- Email contact: tristan@tblt.fr
-- Website: https://tblt.fr
+- Pro contact: tristan@tblt.fr
+- Personal website: https://tblt.fr
+- Malt profile: https://www.malt.fr/profile/tristanbouillot
