@@ -1,6 +1,6 @@
 ## Hello, i'm Tristan Bouillot 👋
 
-I'm CTO @codidae & fullstack freelance developer
+I'm a fullstack freelance developer
 
 - Pro contact: tristan@tblt.fr
 - Personal website: https://tblt.fr
