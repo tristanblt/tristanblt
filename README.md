@@ -1,55 +1,28 @@
 # Tristan Bouillot
 
-**Developer & endurance performance analyst.**  
-I translate sports science into concrete tools and analyses — for athletes, coaches, and endurance brands.
+**Développeur fullstack TypeScript & IA appliquée**, basé à Grenoble.
+Je mets des produits IA en production sur des bases fullstack solides.
 
-Based in Grenoble, embedded in the trail running scene.  
-Trail and ultra-trail runner.
+→ [tblt.fr](https://tblt.fr) · [LinkedIn](https://www.linkedin.com/in/tblt) · [Malt](https://www.malt.fr/profile/tristanbouillot)
 
-→ [tblt.fr](https://tblt.fr)
+## En ce moment
 
----
+- **[Molecular](https://molecular.paris)**, cofondateur & CTO (2024 →). Moli, agent IA de sourcing pour les A&R et les labels : monorepo TypeScript, pipelines d'agents LLM, intégrations Chartmetric, Soundcharts, streaming et réseaux sociaux.
+- **[OpenAthlete](https://github.com/openathleteorg/openathlete)**, fondateur & mainteneur (2025 →). Alternative européenne open source à TrainingPeaks : React, NestJS, Prisma, PostgreSQL, auto-hébergeable. 150+ utilisateurs hébergés, 94 ⭐.
+- **Freelance**, 1 à 3 jours par semaine, en renfort d'équipes produit.
 
-## What I work on
+## Avant
 
-The intersection of **software engineering** and **endurance performance science** — a space that's underbuilt and underserved, especially in French.
+- Cofondateur & CTO de Codidae, une edtech incubée à Station F (2022-2024)
+- Fondateur de Sokius, une agence web et logicielle (2020-2021)
+- 85+ projets en freelance depuis 2017, 4,9/5 sur Malt
 
-My approach: read the peer-reviewed literature, implement it, publish the code, explain the method. No black boxes, no expert posturing.
+## Stack
 
-Three principles that are non-negotiable:
-- **Scientific rigour** — every claim is sourced, peer-reviewed papers cited
-- **Radical transparency** — code, methods and data are public by default
-- **Concrete utility** — every analysis should inform a decision, not just look good
+`TypeScript` `React` `Next.js` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Docker` `LLM` `RAG` `Mastra`
 
----
+## Principes
 
-## Projects
+**Tenir** des engagements réalistes · **Documenter** ce qui sert à reprendre un projet · **Coder moins** : moins de dépendances, hébergement européen.
 
-### [OpenAthlete](https://openathlete.org) — open source endurance training platform
-AI-powered training platform for endurance athletes. Built as an alternative to TrainingPeaks / Nolio — open source, freemium, transparent algorithms.
-~100 active testers. TypeScript end-to-end.
-
-`TypeScript` `Next.js` `open source` `endurance` `AI`
-
----
-
-### [tblt.fr](https://tblt.fr) — technical articles & analyses
-Performance science articles for the endurance world. Grounded in research, reproductible in code.
-
-Topics I cover:
-- Physiological modelling
-- Running economy & biomechanics
-- Race analysis
-- Open source tools
-
-`MDX` `Next.js` `Chart.js` `D3` `TypeScript`
-
----
-
-## Collaboration
-
-I work with endurance brands, coaching teams, and sports media — translating data and science into usable outputs.
-
-Not a coach. Not a researcher. A developer who reads the literature, tests the protocols, and builds the tools.
-
-→ Contact via [tblt.fr](https://tblt.fr) or [LinkedIn](https://linkedin.com/in/tblt)
+Un besoin ? tristan@tblt.fr
